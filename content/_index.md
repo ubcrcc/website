@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: UBCRC Title
 date: 2022-10-24
 type: landing
 
@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        UBC Red Cross Club
       image:
         filename: welcome.jpg
       text: |
