@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: UBCRC Title
+title:
 date: 2022-10-24
 type: landing
 
@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Upcoming events
       subtitle:
       text:
       count: 5
